@@ -1,10 +1,27 @@
 ---
 ---
 
+.pageTitle {
+	color: rgba(80,80,80,1);
+	background-color: rgba(192,192,192,0.6);
+	padding: 10px 10px 10px 20px;
+	line-height: 0.25;
+}
+
+.blurb_backdrop {
+	color: rgba(80,80,100,1);
+	background-color: rgba(192,192,220,0.6);
+	padding: 20px;
+	margin-top: 20px;
+}
+
 body {
-	background-image: url("/landscape.jpg");
+	background-image: url("oil2.jpg");
 	background-color: lightblue;
+	background-position: absolute;
 	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 body {
