@@ -1,6 +1,7 @@
-html {
-	background-image: url( "landscape.jpg");
+body {
+	background-image: url("landscape.jpg");
 	background-color: lightblue;
+	background-attachment: fixed;
 }
 
 body {
