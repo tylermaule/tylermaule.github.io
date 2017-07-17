@@ -8,10 +8,10 @@
 > *Here*  
 
 **EDUCATION**  
-Whitman College, Expected Graduation May 2019
-Bachelor of Arts, Economics - Mathematics | Computer Science Minor
+Whitman College, Expected Graduation May 2019  
+Bachelor of Arts, Economics - Mathematics | Computer Science Minor  
 Relevant Coursework: Intermediate Microeconomics, Intermediate Macroeconomics, Statistics with Applications,  
-Software Design (upcoming: Econometrics, Computer Simulations, Linear Algebra, Computational Analysis of Big Data, Globalization and European Economies)
+Software Design (upcoming: Econometrics, Computer Simulations, Linear Algebra, Computational Analysis of Big Data, Globalization and European Economies)  
 GPA: * XXXXXX *  
  
 **SKILLS**  
