@@ -141,3 +141,7 @@ li.posts {
 .post_backdrop li {
 	display: block;
 }
+
+.post_backdrop ul {
+	list-style-type: none;
+}
