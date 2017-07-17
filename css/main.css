@@ -127,3 +127,7 @@ header li {
 footer li {
 	display: block;
 }
+
+li.posts {
+	display: block;
+}
