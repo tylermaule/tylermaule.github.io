@@ -37,16 +37,22 @@ footer {
 	background-color: rgba(50,50,50,0.5);
 	bottom: 0;
 	left: 0;
-	margin-top: 20px;
+	margin-top: 50px;
 	padding: 10px;
+	position: fixed;
+  bottom:0;
+  width:100%;
+  height:30px;
 }
 
 .pageTitle {
-	color: rgba(200,200,200,1);
-	background-color: rgba(100,100,100,0.7);
+	color: rgba(220,220,220,1);
+	background-color: rgba(100,100,100,0.5);
 	padding: 5px 15px 5px 20px;
 	line-height: 0.25;
 	margin-top: 70px;
+	border-style: solid;
+	font-family: 'Garamond', 'Times New Roman';
 }
 
 .blurb_backdrop {
@@ -64,19 +70,23 @@ body {
 	background-repeat: repeat;
 }
 
+.main {
+	margin-bottom: 60px;
+}
+
 body {
 	margin: 60px auto;
 	width: 70%;
 }
 
 footer ul {
-	font-family: 'Helvetica','Arial','Sans-Serif';
+	font-family: 'Garamond','Times New Roman','Helvetica','Arial','Sans-Serif';
 	padding: 0px;
 }
 
 h1 {
 	font-size: 3em;
-	font-family: 'Times New Roman','Helvetica','Sans-Serif'
+	font-family: 'Garamond','Times New Roman','Helvetica','Sans-Serif'
 }
 
 
