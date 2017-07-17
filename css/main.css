@@ -22,6 +22,13 @@ header a {
 	margin: 0px 5px 0px 5px;
 }
 
+.cimg {
+	float: left;
+	background-image: url(waves.png);
+	height: 200px;
+	width: 200px;
+}
+
 header a:hover {
 	background-color: rgba(60,60,60,0.7);
 }
