@@ -137,3 +137,7 @@ footer li {
 li.posts {
 	display: block;
 }
+
+.post_backdrop li {
+	display: block;
+}
