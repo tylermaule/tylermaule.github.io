@@ -21,7 +21,7 @@ GPA: * XXXXXX *
   
   
 ## **EXPERIENCE**  
-#### *Company*  
+#### *Company*
 Financial Analyst Intern, June 2017 - Present
 -  Improved internal efficiency by managing audit of over fifty company-wide financial and accounting processes
 -  Used Excel, Python, and Oracle ERP systems to prepare and present detailed costing analysis reports
@@ -29,20 +29,20 @@ Financial Analyst Intern, June 2017 - Present
   
   
   
-#### Whitman Investment Company  
+#### Whitman Investment Company
 Voting Member, October 2015 - Present
 -  Researched and presented on concepts in finance and investment
 -  Executed club’s management of $800,000 portfolio
   
   
   
-#### Whitman College  
-Economics Lab Consultant, January 2017-Present  
+#### Whitman College
+Economics Lab Consultant, January 2017-Present
 -  Tutored five classes of 25 students in Economics, focusing on quantitative microeconomics 
   
   
   
-#### Whitman College Technology Services  
+#### Whitman College Technology Services
 + Multimedia Intern, August 2016-Present
     -  Provided research and beta tested for new Digital Media Studies course  
  	  -  Developed and implemented campus-wide advertising campaigns  
@@ -51,7 +51,7 @@ Economics Lab Consultant, January 2017-Present
   
   
   
-#### Quarterlife  
+#### Quarterlife
 Public Relations Committee, August 2015 - Present
 -  Developed, coordinated, and executed twelve campuswide multimedia campaigns 
 -  Managed XX individuals and $XX dedicated to quarterly literary magazine production
