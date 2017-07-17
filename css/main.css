@@ -26,6 +26,7 @@ header a {
 	background-image: url("tea.jpg");
 	height: 200px;
 	width: 200px;
+	margin: 20px;
 }
 
 header a:hover {
