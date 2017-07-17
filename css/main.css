@@ -28,6 +28,7 @@ header a {
 	width: 200px;
 	float: left;
 	margin-right: 20px;
+	padding: 10px;
 }
 
 header a:hover {
