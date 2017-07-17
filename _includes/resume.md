@@ -28,15 +28,18 @@ Financial Analyst Intern, June 2017 - Present
 -  Tested and wrote user documentation for Oracle’s BI ERP by creating queries, reports, and analyses
   
   
+  
 #### Whitman Investment Company  
 Voting Member, October 2015 - Present
 -  Researched and presented on concepts in finance and investment
 -  Executed club’s management of $800,000 portfolio
   
   
+  
 #### Whitman College  
 Economics Lab Consultant, January 2017-Present  
 -  Tutored five classes of 25 students in Economics, focusing on quantitative microeconomics 
+  
   
   
 #### Whitman College Technology Services  
@@ -47,10 +50,12 @@ Economics Lab Consultant, January 2017-Present
  	  -  Tutored Computer Science students in Python, Java, and C++
   
   
+  
 #### Quarterlife  
 Public Relations Committee, August 2015 - Present
 -  Developed, coordinated, and executed twelve campuswide multimedia campaigns 
 -  Managed XX individuals and $XX dedicated to quarterly literary magazine production
-
+  
+  
 ## **HONORS AND AWARDS**  
 Merit Scholarship, Whitman College | Starbucks Partner of the Quarter | Academic Distinction, Whitman College 
