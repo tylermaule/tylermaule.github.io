@@ -107,11 +107,18 @@ ul.posts {
 	font-size: 1.4em;
 }
 
-ul {
+footer ul {
 	list-style-type:none;
 	margin: 0px;
 	padding: 0px;
 }
+
+header ul {
+	list-style-type:none;
+	margin: 0px;
+	padding: 0px;
+}
+
 
 li {
 	display: block;
