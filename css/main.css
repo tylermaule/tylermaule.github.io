@@ -108,7 +108,7 @@ h1 {
 	list-style-type: disc;
 }
 
-ul.posts {
+.posts ul {
 	margin: 10px;
 	font-size: 1.4em;
 }
@@ -134,7 +134,7 @@ footer li {
 	display: block;
 }
 
-li.posts {
+.posts li {
 	display: block;
 }
 
@@ -142,7 +142,7 @@ li.posts {
 	display: block;
 }
 
-ul.posts {
+.posts ul {
 	list-style-type: none;
 }
 
