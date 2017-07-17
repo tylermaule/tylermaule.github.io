@@ -1,0 +1,9 @@
+---
+layout: default
+title: Resume
+---
+
+<div class="blurb_backdrop">
+  {% capture my_include %}{% include resume.md %}{% endcapture %}
+{{ my_include | markdownify }}
+</div>
