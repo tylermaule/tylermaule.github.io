@@ -27,21 +27,21 @@ Financial Analyst Intern, June 2017 - Present
 -  Used Excel, Python, and Oracle ERP systems to prepare and present detailed costing analysis reports
 -  Tested and wrote user documentation for Oracle’s BI ERP by creating queries, reports, and analyses
   
-  
+  <br>
   
 #### Whitman Investment Company
 Voting Member, October 2015 - Present
 -  Researched and presented on concepts in finance and investment
 -  Executed club’s management of $800,000 portfolio
   
-  
+    <br>
   
 #### Whitman College
 Economics Lab Consultant, January 2017-Present
 -  Tutored five classes of 25 students in Economics, focusing on quantitative microeconomics 
   
   
-  
+    <br>
 #### Whitman College Technology Services
 + Multimedia Intern, August 2016-Present
     -  Provided research and beta tested for new Digital Media Studies course  
@@ -49,7 +49,7 @@ Economics Lab Consultant, January 2017-Present
 + Computer Science Consultant, August 2016-Present
     -  Tutored Computer Science students in Python, Java, and C++  
   
-  
+    <br>
   
 #### Quarterlife
 Public Relations Committee, August 2015 - Present
