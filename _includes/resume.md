@@ -39,9 +39,8 @@ Voting Member, October 2015 - Present
 #### Whitman College
 Economics Lab Consultant, January 2017-Present
 -  Tutored five classes of 25 students in Economics, focusing on quantitative microeconomics 
-  
-  
-    <br>
+<br>
+    
 #### Whitman College Technology Services
 - Multimedia Intern, August 2016-Present
     - Provided research and beta tested for new Digital Media Studies course  
