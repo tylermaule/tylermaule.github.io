@@ -58,7 +58,8 @@ footer {
 .blurb_backdrop {
 	color: rgba(180,180,180,1);
 	background-color: rgba(20,20,20,0.8);
-	padding: 20px;
+	padding: 8px 20px 20px 20px;
+
 	margin-top: 20px;
 }
 
