@@ -120,6 +120,10 @@ header ul {
 }
 
 
-li {
+header li {
+	display: block;
+}
+
+footer li {
 	display: block;
 }
