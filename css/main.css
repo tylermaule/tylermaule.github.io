@@ -142,6 +142,10 @@ li.posts {
 	display: block;
 }
 
+ul.posts {
+	list-style-type: none;
+}
+
 .post_backdrop ul {
 	list-style-type: none;
 }
