@@ -41,10 +41,10 @@ Economics Lab Consultant, January 2017 - Present
 <br>
     
 #### Whitman College Technology Services
-- Multimedia Intern, August 2016 - Present
+Multimedia Intern, August 2016 - Present
     - Provided research and beta tested for new Digital Media Studies course
     - Developed and implemented campus-wide advertising campaings
-- Computer Science Consultant, August 2016 - Present
+Computer Science Consultant, August 2016 - Present
     - Tutored Computer Science students in Python, Java, and C++
   
     <br>
