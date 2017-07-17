@@ -31,8 +31,8 @@ Financial Analyst Intern, June 2017 - Present
   
 #### Whitman Investment Company
 Voting Member, October 2015 - Present
--  Researched and presented on concepts in finance and investment
--  Executed club’s management of $800,000 portfolio
+- Researched and presented on concepts in finance and investment
+- Executed club’s management of $800,000 portfolio
   
     <br>
   
@@ -43,11 +43,11 @@ Economics Lab Consultant, January 2017-Present
   
     <br>
 #### Whitman College Technology Services
-+ Multimedia Intern, August 2016-Present
-    -  Provided research and beta tested for new Digital Media Studies course  
- 	  -  Developed and implemented campus-wide advertising campaigns  
-+ Computer Science Consultant, August 2016-Present
-    -  Tutored Computer Science students in Python, Java, and C++  
+- Multimedia Intern, August 2016-Present
+    - Provided research and beta tested for new Digital Media Studies course  
+ 	  - Developed and implemented campus-wide advertising campaigns  
+- Computer Science Consultant, August 2016-Present
+    - Tutored Computer Science students in Python, Java, and C++  
   
     <br>
   
