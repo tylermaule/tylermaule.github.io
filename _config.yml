@@ -1,4 +1,7 @@
 name: Tyler M
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
 url: https://maumaj.github.io/
+kramdown:
+  input: GFM
+  highlighter: pygments
+highlighter: pygments

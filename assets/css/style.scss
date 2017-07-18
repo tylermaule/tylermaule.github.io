@@ -15,7 +15,7 @@ header {
 	top: 0;
 	left: 0;
 	width: 100%;
-	color: lightgrey;
+	color: purple;
 	background-color: rgba(20,20,20,0.8);
 	padding: 15px;
 	min-width: 680px;
@@ -89,6 +89,13 @@ footer {
 	background-color: rgba(20,20,20,0.8);
 	padding: 10px 20px 10px 20px;
 	margin-left: -39px;
+	margin-top: 20px;
+}
+
+.post {
+	color: rgba(180,180,180,1);
+	background-color: rgba(20,20,20,0.8);
+	padding: 10px 20px 10px 20px;
 	margin-top: 20px;
 }
 
