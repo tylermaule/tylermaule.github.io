@@ -3,7 +3,9 @@ layout: default
 title: Resumé
 ---
 
-<div class="post_backdrop">
+<div class="resume_backdrop">
+  <div class="resume">
   {% capture my_include %}{% include resume.md %}{% endcapture %}
-{{ my_include | markdownify }}
+  {{ my_include | markdownify }}
+  </div>
 </div>

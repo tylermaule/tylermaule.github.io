@@ -1,6 +1,15 @@
 ---
 ---
 
+.resume {
+	padding: 0px 60px 20px 20px;
+	font-size: 0.95em;
+}
+
+.resume li {
+	list-style: square;
+}
+
 header {
 	position: fixed;
 	top: 0;
@@ -60,7 +69,7 @@ footer {
 }
 
 .pageTitle {
-	color: rgba(220,220,220,1);
+	color: white;
 	background-color: rgba(100,100,100,0.5);
 	padding: 5px 15px 5px 20px;
 	line-height: 0.25;
@@ -79,14 +88,24 @@ footer {
 .post_backdrop {
 	color: rgba(180,180,180,1);
 	background-color: rgba(20,20,20,0.8);
-	padding: 8px 20px 8px 20px;
+	padding: 10px 20px 10px 20px;
+	margin-left: -39px;
 	margin-top: 20px;
-	width: 100%;
+}
+
+.resume_backdrop {
+	color: rgba(180,180,180,1);
+	background-color: rgba(20,20,20,0.8);
+	padding: 10px 20px 10px 20px;
+	margin-top: 20px;
+}
+
+.post_backdrop li{
+	list-style: none;
 }
 
 body {
-	background-image: url("waves.png");
-	background-blend-mode: soft-light;
+	background-image: url("congruent_pentagon.png");
 	background-position: absolute;
 	background-attachment: fixed;
 	background-repeat: repeat;
@@ -120,6 +139,8 @@ h1 {
 .posts ul {
 	margin: 10px;
 	font-size: 1.4em;
+	display: inline-block;
+	float: left;
 }
 
 footer ul {
@@ -134,27 +155,10 @@ header ul {
 	padding: 0px;
 }
 
-
 header li {
 	display: block;
 }
 
 footer li {
 	display: block;
-}
-
-.posts li {
-	display: block;
-}
-
-.post_backdrop li {
-	display: block;
-}
-
-.posts ul {
-	list-style-type: none;
-}
-
-.post_backdrop ul {
-	list-style-type: none;
 }
