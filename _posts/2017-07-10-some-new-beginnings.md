@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Some New Beginnings / It's Personal"
-date: 2017-07-14
+date: 2017-07-10
 ---
 
 There's something about self-motivated, independent learning that excites me like nothing else. Sure, it takes a good kick of motivation, and (when done right) some serious organizational chops. With the staggering amount of blogs, videos, articles, tutorials, and so on, I'm not surprised when Wired reports a dismal 10% completion rate in MOOC courses. The multitude of resources can be a double-edged sword. But when you're truly able to really dig into a subject, explore all the rabbit holes, and glimpse another part of the world -- that experience stays with you. Sure, you're benefiting from hundreds of researchers and educators, but after all that digging, knowledge feels like it's truly yours.
