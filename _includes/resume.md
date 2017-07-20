@@ -1,6 +1,5 @@
 # Tyler John Maule
-#### *Address, City, CAT Zip | mauletj@whitman.edu | (XXX) XXX-XXXX*  
-
+#### *280 Boyer Avenue, Walla Walla WA, 99362 | mauletj@whitman.edu*
 ---
 
 ## **OBJECTIVE**  
@@ -13,7 +12,6 @@
 Bachelor of Arts, Economics - Mathematics | Computer Science Minor  
 Relevant Coursework: Intermediate Microeconomics, Intermediate Macroeconomics, Statistics with Applications,  
 Software Design (upcoming: Econometrics, Computer Simulations, Linear Algebra, Computational Analysis of Big Data, Globalization and European Economies)  
-GPA: * XXXXXX *  
 <br>
 
 ## **SKILLS**
@@ -25,7 +23,7 @@ GPA: * XXXXXX *
 
 ## **EXPERIENCE**  
 
-**Company**  
+**Oracle Corporation**  
 Financial Analyst Intern, June 2017 - Present
 -  Improved internal efficiency by managing audit of over fifty company-wide financial and accounting processes
 -  Used Excel, Python, and Oracle ERP systems to prepare and present detailed costing analysis reports
