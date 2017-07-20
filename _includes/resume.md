@@ -8,7 +8,7 @@
 <br>
 
 ## **EDUCATION**  
-**Whitman College, Expected Graduation May 2019**
+**Whitman College, Expected Graduation May 2019**  
 Bachelor of Arts, Economics - Mathematics | Computer Science Minor  
 Relevant Coursework: Intermediate Microeconomics, Intermediate Macroeconomics, Statistics with Applications,  
 Software Design (upcoming: Econometrics, Computer Simulations, Linear Algebra, Computational Analysis of Big Data, Globalization and European Economies)  
@@ -61,7 +61,6 @@ Computer Science Consultant, August 2016 - Present
 **Quarterlife**  
 Public Relations Committee, August 2015 - Present  
 -  Developed, coordinated, and executed twelve campuswide multimedia campaigns
--  Managed XX individuals and $XX dedicated to quarterly literary magazine production
 <br>
 
 ## **HONORS AND AWARDS**  
