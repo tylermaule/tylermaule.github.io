@@ -17,7 +17,7 @@ Install pandas-datareader through the "Environments" tab of Anaconda Navigator, 
 $ pip install pandas-datareader
 ```
 
-```python
+```python 
 import pandas
 from pandas_datareader import data, wb
 from datetime import date
