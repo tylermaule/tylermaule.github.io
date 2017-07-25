@@ -31,15 +31,15 @@ header a {
 	margin: 0px 5px 0px 5px;
 }
 
-#linked{
-	height: 200px;
-	width: 200px;
-	float: left;
-	margin: 0px 20px 5px 20px;
-}
+
+
+
 
 .gallery{
-	margin: 15px 0px 15px 0px;
+	padding: 15px 0px 15px 0px;
+	padding-bottom: 325px;
+	min-width: 690px;
+
 }
 
 header a:hover {
@@ -85,6 +85,12 @@ footer {
 	background-color: rgba(20,20,20,0.8);
 	padding: 8px 20px 8px 20px;
 	margin-top: 20px;
+}
+
+#opening {
+	background-color: rgba(150,150,150,0.7);
+	margin-bottom: -20px;
+	padding: 20px;
 }
 
 .post_backdrop {
@@ -170,4 +176,12 @@ header li {
 
 footer li {
 	display: block;
+}
+
+#linked{
+	height: 200px;
+	width: 205px;
+	float: left;
+	margin: -1px 18px 5px 20px;
+	padding-left: 0px;
 }
