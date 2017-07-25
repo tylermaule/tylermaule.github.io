@@ -2,9 +2,6 @@
 #### *280 Boyer Avenue, Walla Walla WA, 99362 | mauletj@whitman.edu*
 ---
 
-## **OBJECTIVE**  
-> *Here*  
-
 <br>
 
 ## **EDUCATION**  
@@ -61,6 +58,7 @@ Computer Science Consultant, August 2016 - Present
 **Quarterlife**  
 Public Relations Committee, August 2015 - Present  
 -  Developed, coordinated, and executed twelve campuswide multimedia campaigns
+<br>
 <br>
 
 ## **HONORS AND AWARDS**  

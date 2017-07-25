@@ -31,12 +31,15 @@ header a {
 	margin: 0px 5px 0px 5px;
 }
 
-.cimg {
-	background-image: url("tea.jpg");
+#linked{
 	height: 200px;
 	width: 200px;
 	float: left;
-	margin: 5px 20px 5px 20px;
+	margin: 0px 20px 5px 20px;
+}
+
+.gallery{
+	margin: 15px 0px 15px 0px;
 }
 
 header a:hover {
@@ -111,7 +114,7 @@ footer {
 }
 
 body {
-	background-image: url("congruent_pentagon.png");
+	background-image: url("diagonal_striped_brick.png");
 	background-position: absolute;
 	background-attachment: fixed;
 	background-repeat: repeat;
