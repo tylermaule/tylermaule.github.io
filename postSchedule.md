@@ -1,0 +1,25 @@
+**Potential Post Schedule**
+
+- Some New Beginnings (Motivational)
+- Trending Now 1: Reading Data
+- Trending Now 2: Candlesticks, Regimes, Signals
+- Trending Now 3: Simple Algorithmic Trading
+- Reflection on Multimedia, Resources
+- Trending Now 5: Ratios & Risk
+- Getting Started w/ Twitter API...
+- Trending Now 6: Incorporating Commision, Brute Force Optimization (Crossover Avg Numbers, % Invested, # of stocks)
+- ISL: Ch.2 Exercises
+- Trending Now 7: Covariance + Regression
+- Oracle Reflection
+- ISL: Ch. 3 Exercises
+- Kaggle Journal (?)
+- Plans for the Upcoming Year
+- ISL: Ch. 4 Exercises
+- Trending Now 8: Going Greek
+- ISL: Ch. 5 Exercises
+- Plans for WIC & Investopedia
+- ISL: Ch. 6 Exercises
+- ISL: Ch. 7 Exercises
+- ISL: Ch. 8 Exercises
+- ISL: Ch. 9 Exercises
+- ISL: Ch. 10 Exercises
