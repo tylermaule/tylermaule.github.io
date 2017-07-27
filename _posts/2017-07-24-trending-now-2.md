@@ -268,6 +268,9 @@ def simpleCandlestickChart(ticker, stock):
     py.iplot(data)
 ```
 
+<div markdown="0">
+{% include simpleCandle.html %}
+</div>
 
 ```python
 simpleCandlestickChart(businessIntelligence['SAP'], 'SAP')
