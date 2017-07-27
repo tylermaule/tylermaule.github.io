@@ -351,6 +351,7 @@ def candlestickChart(ticker, stock):
 BP = makeStocksDict(['BP'],date(2015,1,1),date.today())
 candlestickChart(BP['BP'],'BP')
 ```
+
 <div markdown="0">
 {% include simpleCandle.html %}
 </div>
@@ -639,7 +640,7 @@ def candlestickChart(ticker, stock):
 candlestickChart(energy['BP'],'BP')
 ```
 <div markdown="0">
-{% include simplestCandle.html %}
+{% include regimeCandle.html %}
 </div>
 
 Good stuff! 'Buy' and 'sell' do sound pretty straightforward. Next time, we'll take a look at some other indicators that complicate this seemingly simple picture.
