@@ -230,7 +230,7 @@ import plotly.graph_objs as go
 from plotly import tools
 
 #set plotly credentials -- create a plotly account to learn more
-tools.set_credentials_file(username='Theom', api_key='AxqTtLihuiVsrwVIdX80')
+tools.set_credentials_file(username='XXX', api_key='XXX')
 
 from math import *
 from plotly.graph_objs import *
