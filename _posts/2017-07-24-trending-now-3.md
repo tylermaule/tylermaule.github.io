@@ -43,12 +43,7 @@ def makeStocksDictSignal(tickers, start, end):
 
 We should start by adding volume to our candlestick chart. Volume, the number of shares exchanged, often indicates the importance of a move in the markets. Therefore, we should measure trends in volume to judge the significances of the SMAs. If volume is increasing, a 'buy' or 'sell' signal should be weighted more heavily.
 
-
-```python
-# plotly w/ volume
-```
-
-Ok. It's time to start building a simple trading algorithm, adapted from the wonderful work of [Curtis Miller](https://ntguardian.wordpress.com/2016/09/26/introduction-stock-market-data-python-2/). In the future, we'll strengthen the algorithm, but we've got to start somewhere. We'll use a moving average crossover strategy, and buy more (with arbitrary weight) if volume is on the upswing.
+It's time to start building a simple trading algorithm, adapted from the wonderful work of [Curtis Miller](https://ntguardian.wordpress.com/2016/09/26/introduction-stock-market-data-python-2/). In the future, we'll strengthen the algorithm, but we've got to start somewhere. We'll use a moving average crossover strategy, and buy more (with arbitrary weight) if volume is on the upswing.
 
 
 ```python
@@ -365,7 +360,7 @@ plt.legend();
 ```
 
 
-![png](output_13_0.png)
+![png](http://i.imgur.com/8WDFExs.png)
 
 
 Hmm... we're falling short of the S&P 500's performance. Let's add some complexity. Instead of simply buying 100 shares at each "sell" signal, we will use the stocks' prices to buy the maximum amount of shares (using no more than 10% of our assets in each trade).
@@ -551,7 +546,7 @@ plt.legend();
 ```
 
 
-![png](output_18_0.png)
+![png](http://i.imgur.com/WhuSTKa.png)
 
 
 As indicated earlier, it's time to incorporate volume -- it's one of the most popular technical indicators for good reason. While the crossover moving average strategy uses SMAs to find emerging trends in security prices, it may generate false positives. A surge in volume provides reassurance that the market really *is* moving in a certain direction -- there's a *breakout* occuring.
@@ -899,24 +894,7 @@ plt.legend();
 ```
 
 
-![png](output_25_0.png)
+![png](http://i.imgur.com/bppoCua.png)
 
 
-So, by giving signals backed by volume more weight, we can eke out an extra 5% return. I'd argue that it's faily significant, but we'll refine and improve this algorithm even further in the future. For now -- let's see how our backtested algorithm performs.
-
-
-```python
-stockDict = makeStocksDictSignal(['AAPL','IBM','MSFT','HPQ','YHOO','SNY','TWTR','AMZN','GOOGL'],date(2017,7,21),date.today())
-signalRecords = signals(stockDict)
-volCalc = backtest3(stockDict,signalRecords,1000000,1,0.1)
-
-spyder = data.DataReader('SPY','google',date(2017,7,21),date.today())
-spyder['Returns'] = spyder['Close']/spyder['Close'].iloc[0]
-
-plt.plot(volCalc.index, volCalc.Return, label="Volume Calc Avg")
-plt.plot(spyder.index, spyder.Returns, label="SPY")
-plt.legend();
-```
-
-
-![png](output_27_0.png)
+So, by giving signals backed by volume more weight, we can eke out an extra 5% return. I'd argue that it's faily significant, but we'll refine and improve this algorithm even further in the future. 
