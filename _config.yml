@@ -3,5 +3,5 @@ markdown: kramdown
 url: https://maumaj.github.io/
 kramdown:
   input: GFM
-  highlighter: pygments
-highlighter: pygments
+  highlighter: rouge
+highlighter: rouge
