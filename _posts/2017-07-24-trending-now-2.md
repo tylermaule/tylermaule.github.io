@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Trending Now (Pt. 28)"
+title: "Trending Now (Pt. 2)"
 date: 2017-07-24
 ---
 
