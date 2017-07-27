@@ -218,7 +218,8 @@ businessIntelligence['CRM'].tail()
 
 Instead of using a tangle of line charts, we'll go with a candlestick plot. Invented by Homma Munehisa to study the futures market of rice, these financial charts can clearly communicate all the information within our DataFrame. Check out this explanatory diagram courtesy of Probe-meteo.com:
 
-![Candlestick Layout](https://upload.wikimedia.org/wikipedia/commons/e/ea/Candlestick_chart_scheme_03-en.svg =100x20)
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Candlestick_chart_scheme_03-en.svg" alt="Drawing" style="width: 200px;"/>
+
 
 With the goal of efficiently creating candlesitck charts, it's time to dive into another Python library: Plotly. Although libraries like matplotlib and Bokeh can create custom candlestick charts with ease, I'll be using Plotly for its out-of-the-box interactivity and pleasing aesthetics. As is often the case, you can download Plotly using pip.
 
