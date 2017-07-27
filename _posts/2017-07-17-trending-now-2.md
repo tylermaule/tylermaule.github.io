@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trending Now (Pt. 2)"
-date: 2017-07-24
+date: 2017-07-17
 ---
 
 So, we've checked out pandas and looked at stocks' ROI (return on investment) graphically. But there's a lot more to dig into with our stock-toting dataframes, and it would be a mess to use a line chart on every occassion. First let's catch up by using the customary imports:

@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Trending Now (Pt. 3)"
+date: 2017-07-24
+---
 
 Thus far, we've used simple moving averages and their intersections to develop a series of signals -- flags that propose the purchase or sale of a company's stock. Eventually, we'll build and backtest a trading algorithm, but there's plenty more information to ferret out of stock data. Let's set the stage once more.
 
