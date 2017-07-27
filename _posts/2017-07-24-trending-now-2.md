@@ -638,5 +638,8 @@ def candlestickChart(ticker, stock):
 ```python
 candlestickChart(energy['BP'],'BP')
 ```
+<div markdown="0">
+{% include simplestCandle.html %}
+</div>
 
 Good stuff! 'Buy' and 'sell' do sound pretty straightforward. Next time, we'll take a look at some other indicators that complicate this seemingly simple picture.
