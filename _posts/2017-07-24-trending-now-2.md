@@ -268,13 +268,14 @@ def simpleCandlestickChart(ticker, stock):
     py.iplot(data)
 ```
 
-<div markdown="0">
-{% include simpleCandle.html %}
-</div>
+
 
 ```python
 simpleCandlestickChart(businessIntelligence['SAP'], 'SAP')
 ```
+<div markdown="0">
+{% include simplestCandle.html %}
+</div>
 
 Almost too easy. So let's dig deeper. With so much movement in the market (even with market volatility down), we need a method of cutting through all the noise and finding underlying trends. One simple way to accomplish this is with simple moving averages, formulas that take the mean of the last *n* data points. Here, we'll use 20-day, 60-day, and 180-day simple moving averages of stock closing prices -- we can find the optimal timeframes later on.
 
@@ -350,6 +351,9 @@ def candlestickChart(ticker, stock):
 BP = makeStocksDict(['BP'],date(2015,1,1),date.today())
 candlestickChart(BP['BP'],'BP')
 ```
+<div markdown="0">
+{% include simpleCandle.html %}
+</div>
 
 Ok, visualizations are wonderful on their own, but what actionable information can we glean from these SMAs?
 
