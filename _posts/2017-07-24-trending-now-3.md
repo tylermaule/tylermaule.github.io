@@ -2,6 +2,7 @@
 layout: post
 title: "Trending Now (Pt. 3)"
 date: 2017-07-24
+categories: [Finance & Economics]
 ---
 
 Thus far, we've used simple moving averages and their intersections to develop a series of signals -- flags that propose the purchase or sale of a company's stock. Eventually, we'll build and backtest a trading algorithm, but there's plenty more information to ferret out of stock data. Let's set the stage once more.
@@ -897,4 +898,4 @@ plt.legend();
 ![png](http://i.imgur.com/bppoCua.png)
 
 
-So, by giving signals backed by volume more weight, we can eke out an extra 5% return. I'd argue that it's faily significant, but we'll refine and improve this algorithm even further in the future. 
+So, by giving signals backed by volume more weight, we can eke out an extra 5% return. I'd argue that it's faily significant, but we'll refine and improve this algorithm even further in the future.
