@@ -14,6 +14,7 @@ layout: feed
 		<email>mauletj@whitman.edu</email>
 	</author>
 
+
 	<div class="post_backdrop">
 
 	{% for post in site.posts %}
