@@ -81,7 +81,8 @@ Let's see what kind of signals we receive from these SMA crossovers. To gauge th
 
 
 ```python
-stockDict = makeStocksDictSignal(['AAPL','IBM','MSFT','HPQ','YHOO','SNY','TWTR','AMZN','GOOGL'],date(2010,1,1),date.today())
+stockDict = makeStocksDictSignal(['AAPL','IBM','MSFT','HPQ','YHOO','SNY','TWTR',
+'AMZN','GOOGL'],date(2010,1,1),date.today())
 signalRecords = signals(stockDict)
 signalRecords.tail()
 ```
@@ -245,7 +246,8 @@ def backtest1(stockDict, tradeSignals, initialValue, batchSize):
 
                     results = pd.concat([results,entryAction],axis=0)
 
-    return results[["Ticker","Value","Action","Shares","Price","Port","Cash","Return"]]
+    return results[["Ticker","Value","Action","Shares","Price","Port",
+    "Cash","Return"]]
 
 ```
 
@@ -400,11 +402,13 @@ def backtest2(stockDict, tradeSignals, initialValue, batchSize, port_risk):
     for day, entry in tradeSignals.iterrows():
         port_value = 0
         if day in tradeSignals.index.tolist():
-            if (((entry["Signal"] == -2) and (cash > entry["Close"] * batchSize) and entry['Regime']==-1) or
-                ((entry["Signal"] == 2) and (sharesDict[entry["Ticker"]] > 0) and (entry['Regime']==1))):
+            if (((entry["Signal"] == -2) and (cash > entry["Close"] * batchSize)
+            and entry['Regime']==-1) or ((entry["Signal"] == 2)
+            and (sharesDict[entry["Ticker"]] > 0) and (entry['Regime']==1))):
                 if (entry["Signal"] == -2):
                     #if signal is "buy", buy the maximum number of shares given the port_risk
-                    shareBuy = ((cash+port_value) * port_risk)  // (entry['Close'] * batchSize)
+                    shareBuy = ((cash+port_value) * port_risk)  //
+                    (entry['Close'] * batchSize)
                     sharesDict[entry['Ticker']] += shareBuy
                     cash -= shareBuy * entry['Close'] * batchSize
 
@@ -434,7 +438,8 @@ def backtest2(stockDict, tradeSignals, initialValue, batchSize, port_risk):
                 }, index=[day])
                 results = pd.concat([results,entryAction],axis=0)
 
-    return results[["Ticker","Value","Action","Shares","Price","Port","Cash","Return"]]        
+    return results[["Ticker","Value","Action","Shares","Price",
+    "Port","Cash","Return"]]        
 ```
 
 
@@ -600,7 +605,8 @@ def signals(stockDict):
         data['Ticker'] = ticker
         data['Date'] = data.index
         signals = data.loc[abs(data["Signal"]) > 0]
-        signals = signals[["Date","Ticker","Close","Volume","Regime","Signal","VRegime"]]
+        signals = signals[["Date","Ticker","Close","Volume","Regime",
+        "Signal","VRegime"]]
         signalList.append(signals)
 
     trades = pd.concat(signalList)  
@@ -610,7 +616,8 @@ def signals(stockDict):
 
 
 ```python
-stockDict = makeStocksDictSignal(['AAPL','IBM','MSFT','HPQ','YHOO','SNY','TWTR','AMZN','GOOGL'],date(2010,1,1),date.today())
+stockDict = makeStocksDictSignal(['AAPL','IBM','MSFT','HPQ','YHOO','SNY',
+'TWTR','AMZN','GOOGL'],date(2010,1,1),date.today())
 signalRecords = signals(stockDict)
 signalRecords.head()
 ```
@@ -746,12 +753,14 @@ def backtest3(stockDict, tradeSignals, initialValue, batchSize, port_risk):
     for day, entry in tradeSignals.iterrows():
         port_value = 0
         if day in tradeSignals.index.tolist():
-            if (((entry["Signal"] == -2) and (cash > entry["Close"] * batchSize) and entry['Regime']==-1) or
-                ((entry["Signal"] == 2) and (sharesDict[entry["Ticker"]] > 0) and (entry['Regime']==1))):
+            if (((entry["Signal"] == -2) and (cash > entry["Close"] * batchSize)
+             and entry['Regime']==-1) or ((entry["Signal"] == 2) and
+             (sharesDict[entry["Ticker"]] > 0) and (entry['Regime']==1))):
                 if (entry["Signal"] == -2):
                     #if signal is "buy", buy the maximum number of shares given the port_risk and the volume regime
                     mult = {True:2, False:1}[entry['VRegime']==1]
-                    shareBuy = ((cash+port_value) * port_risk * mult)  // (entry['Close'] * batchSize)
+                    shareBuy = ((cash+port_value) * port_risk * mult)  
+                    // (entry['Close'] * batchSize)
                     sharesDict[entry['Ticker']] += shareBuy
                     cash -= shareBuy * entry['Close'] * batchSize
 
@@ -783,7 +792,8 @@ def backtest3(stockDict, tradeSignals, initialValue, batchSize, port_risk):
                 }, index=[day])
                 results = pd.concat([results,entryAction],axis=0)
 
-    return results[["Ticker","Value","Action","Shares","Price","Port","Cash","Return"]]   
+    return results[["Ticker","Value","Action","Shares","Price",
+    "Port","Cash","Return"]]   
 ```
 
 
