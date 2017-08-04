@@ -12,39 +12,40 @@ Software Design (upcoming: Econometrics, Computer Simulations, Linear Algebra, C
 <br>
 
 ## **SKILLS**
--  Strong organizational, creative, and problem-solving skills  
--  Effective oral and written communication in fast-paced environments  
--  Enthusiastic, quick learner with a strong work ethic  
--  Quantitative analysis with Python (pandas, matplotlib, scikit-learn), R, and SQL  
+- Leveraging strong oral and written communication to convey results in fast-paced environments
+-  Organized, innovative thinker with a strong work ethic
+-  Proactive in leadership roles and collaborative projects
+-  Critical analysis of quantitative data with Python (pandas, Matplotlib, scikit-learn), R, SQL, and Excel
 <br>
 
 ## **EXPERIENCE**  
 
 **Oracle Corporation**  
 Financial Analyst Intern, June 2017 - Present
--  Improved internal efficiency by managing audit of over fifty company-wide financial and accounting processes
--  Used Excel, Python, and Oracle ERP systems to prepare and present detailed costing analysis reports
--  Tested and wrote user documentation for Oracle’s BI ERP by creating queries, reports, and analyses
+-  Leveraged skills in Excel, Python and Oracle ERP systems to prepare and present detailed reports
+-  Created statistical models to inform key business decisions
+-  Tested and documented Oracle’s Business Intelligence module by creating queries, reports, and analyses
+-  Enhanced internal efficiency by auditing over fifty company-wide financial and accounting processes
 <br>
 <br>
 
 **Whitman Investment Company**  
 Voting Member, October 2015 - Present
-  - Researched and presented on concepts in finance and investment
-  - Executed company's management of $800,000 portfolio
+-  Researched and presented financial analysis and investment recommendations
+-  Collaborated with team in management of an $800,000 portfolio
 <br>
 <br>
 
 **Whitman College**  
 Economics Lab Consultant, January 2017 - Present
--  Tutored five classes of 25 students in Economics, focusing on quantitative microeconomics
+-  Tutored five quantitative microeconomics class sections
 <br>
 <br>
 
 
 **Whitman College Technology Services**  
 Multimedia Intern, August 2016 - Present  
-- Provided research and beta tested for new Digital Media Studies course
+- Researched and beta tested new Digital Media Studies course
 - Developed and implemented campus-wide advertising campaigns
 <br>
 <br>
