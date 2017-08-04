@@ -908,4 +908,4 @@ plt.legend();
 ![png](http://i.imgur.com/bppoCua.png)
 
 
-So, by giving signals backed by volume more weight, we can eke out an extra 5% return. I'd argue that it's faily significant, but we'll refine and improve this algorithm even further in the future.
+So, by giving signals backed by volume more weight, we can eke out an extra 5% in returns. I'd argue that it's faily significant, but we'll refine and improve this algorithm even further in the future.
