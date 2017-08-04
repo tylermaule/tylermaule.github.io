@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Trending Now (Pt. 3)"
+title: "Trending Now (Pt. 3): Test & Test Again"
 date: 2017-07-24
 categories: [Finance & Economics]
 ---

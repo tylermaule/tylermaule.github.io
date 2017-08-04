@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Trending Now (Pt. 1)"
+title: "Trending Now (Pt. 1): Return & Refresh"
 date: 2017-07-10
 categories: [Finance & Economics]
 ---
