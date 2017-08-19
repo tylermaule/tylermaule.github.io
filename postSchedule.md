@@ -1,25 +1,20 @@
 **Potential Post Schedule**
 
-- Some New Beginnings (Motivational)
-- Trending Now 1: Reading Data
-- Trending Now 2: Candlesticks, Regimes, Signals
-- Trending Now 3: Simple Algorithmic Trading
-- Reflection on Multimedia, Resources
-- Trending Now 5: Ratios & Risk
-- Getting Started w/ Twitter API...
-- Trending Now 6: Incorporating Commision, Brute Force Optimization (Crossover Avg Numbers, % Invested, # of stocks)
-- ISL: Ch.2 Exercises
-- Trending Now 7: Covariance + Regression
-- Oracle Reflection
-- ISL: Ch. 3 Exercises
-- Kaggle Journal (?)
-- Plans for the Upcoming Year
-- ISL: Ch. 4 Exercises
-- Trending Now 8: Going Greek
-- ISL: Ch. 5 Exercises
-- Plans for WIC & Investopedia
-- ISL: Ch. 6 Exercises
-- ISL: Ch. 7 Exercises
-- ISL: Ch. 8 Exercises
-- ISL: Ch. 9 Exercises
-- ISL: Ch. 10 Exercises
+- Some New Beginnings *10 Jul*
+- Trending Now 1: Returns *10 Jul*
+- Trending Now 2: Signals *17 Jul*
+- Trending Now 3: Testing/Simulation *24 Jul*
+- ISL 1: EDA *31 Jul*
+- Multimedia *04 Aug*
+- ISL 2: Regression Labs *05 Aug*
+- ISL 3: Regression Exercises *12 Aug*
+
+---
+
+- ORCL *19 Aug*
+- ISL 4: Logistic *19 Aug*
+- College EDA *26 Aug*
+
+---
+
+- ISL through 13
