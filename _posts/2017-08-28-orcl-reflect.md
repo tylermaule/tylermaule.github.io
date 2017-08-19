@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Trending Now (Pt. 4): Imperfect Ratios"
-date: 2017-08-21
-categories: [Finance & Economics]
+title: "In Retrospect: Internship at Oracle"
+date: 2017-12-21
+categories: [Reflection]
 ---
 
-With wildly varying market capitalizations, dividend payments, and trading volumes, it's often difficult to objectively compare securities. Out of this difficulty, mathematicians and financial practitioners have developed an array of ratios to judge stocks and portfolios -- commonly known as performance indicators. Here we'll take a look at a few risk-related indicators a high level, and implement them in Python when applicable.
+With wildly varying market capitalizations, dividend payments, and trading volumes, it's often difficult to objectively compare securities. Out of this difficulty, mathemeticians and financial practictioners have developed an array of ratios to judge stocks and portfolios -- commonly known as performance indicators. Here we'll take a look at a few risk-related indicators a high level, and implement them in Python when applicable.
 
 **Sharpe Ratio**
 
