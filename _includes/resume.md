@@ -21,7 +21,7 @@ Software Design (upcoming: Econometrics, Computer Simulations, Linear Algebra, C
 ## **EXPERIENCE**  
 
 **Oracle Corporation**  
-Financial Analyst Intern, June 2017 - Present
+Financial Analyst Intern, June 2017 - August 2017
 -  Leveraged skills in Excel, Python and Oracle ERP systems to prepare and present detailed reports
 -  Created statistical models to inform key business decisions
 -  Tested and documented Oracle’s Business Intelligence module by creating queries, reports, and analyses
