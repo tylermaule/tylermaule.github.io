@@ -32,7 +32,11 @@ header a {
 }
 
 
+#intro a{
+	margin: 0px -40px 0px -40px;
+	color: #616A6B;
 
+}
 
 
 .gallery{
@@ -51,7 +55,10 @@ a {
 	color: lightgrey;
 	font-family: 'Garamond','Times New Roman','Arial';
 	padding: 15px 40px 16px 40px ;
-	margin: 0px -20px 0px -20px;
+}
+
+.blurb_backdrop a{
+	margin: 0px -40px 0px -40px;
 }
 
 footer {

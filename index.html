@@ -5,22 +5,17 @@ title: An Introduction
 <div id = "linked">
   <img src="http://i.imgur.com/bsL4tog.png" height="200" width="200"/>
 </div>
-<p > Hi! I'm Tyler Maule, a rising junior at Whitman College in Walla
-Walla, Washington. In the classroom, I've been exploring the intersections
+<p id='intro'> Hi! I'm Tyler Maule, a rising junior at Whitman College in <a
+  href="https://earth.google.com/web/@46.07079497,-118.33065233,301.88829311a,602.23116642d,35y,0.00000001h,44.99933964t,0r/data=ClIaUBJKCiUweDU0YTI2YTg5NGEwZDBjOWI6MHg4NzA0YThkNTA3N2ViODAxGaIgHcMICUdAIThaHyAplV3AKg9XaGl0bWFuIENvbGxlZ2UYAiAB"
+  target="_blank">Walla Walla, Washington</a>. In the classroom, I've been exploring the intersections
 between programming, economics, finance, and mathematics. Beyond academics,
 I spend much of my time hiking, cooking, doodling, and
 traveling. </p>
 <div class="blurb_backdrop">
-  <p> I created this website to develop, deepen, and write about my passions.
-  Check out my blog (under construction) to see what I'm up to now,
-  my resumé to see what I've done, and contact me to talk about the future.
-  Suggest some <a href="https://www.goodreads.com/user/show/34648546-tyler-maule">new books to read.
-  </a>Cheers!
-<br>
+  {% capture my_include %}{% include index_info.md %}{% endcapture %}
+  {{ my_include | markdownify }}
   <br>
   <br>
-  <br>
-  </p>
 </div>
 
 <div class="gallery">
