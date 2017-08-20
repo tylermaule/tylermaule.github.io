@@ -58,7 +58,7 @@ Computer Science Consultant, August 2016 - Present
 
 **Quarterlife**  
 Public Relations Committee, August 2015 - Present  
--  Developed, coordinated, and executed twelve campuswide multimedia campaigns
+-  Developed, coordinated, and executed twelve campus-wide multimedia campaigns
 <br>
 <br>
 
