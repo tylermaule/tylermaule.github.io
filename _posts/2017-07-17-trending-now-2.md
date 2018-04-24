@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trending Now (Pt. 2): Smoke & Signals"
-date: 2017-07-17
+date: 2018-07-17
 categories: [Finance & Economics]
 ---
 

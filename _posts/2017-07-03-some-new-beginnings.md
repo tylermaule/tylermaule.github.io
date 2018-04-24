@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Some New Beginnings / It's Personal"
-date: 2017-07-10
+date: 2018-07-10
 categories: [Reflection]
 ---
 

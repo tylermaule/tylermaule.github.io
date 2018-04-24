@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "In Retrospect: Multimedia Internship, 2016-2017"
-date: 2017-08-04
+date: 2018-08-04
 categories: [Reflection]
 ---
 

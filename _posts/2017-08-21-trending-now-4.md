@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trending Now (Pt. 4): Imperfect Ratios"
-date: 2017-08-21
+date: 2018-08-21
 categories: [Finance & Economics]
 ---
 
