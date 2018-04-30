@@ -16,7 +16,7 @@ header {
 	left: 0;
 	width: 100%;
 	color: white;
-	background-color: rgba(20,20,20,0.8);
+	background-color: rgba(20,20,120,0.8);
 	padding: 15px;
 	min-width: 1000px;
 	margin: 0px 10px 0px 10px auto;
@@ -78,7 +78,7 @@ footer {
 }
 
 .pageTitle {
-	color: white;
+	color: red;
 	background-color: rgba(100,100,100,0.5);
 	padding: 5px 15px 5px 20px;
 	margin-top: 70px;
@@ -93,7 +93,7 @@ footer {
 }
 
 .blurb_backdrop {
-	color: rgba(180,180,180,1);
+	color: rgba(180,180,180,0.8);
 	background-color: rgba(20,20,20,0.8);
 	padding: 8px 20px 8px 20px;
 	margin-top: 20px;
@@ -112,8 +112,8 @@ footer {
 }
 
 .post_backdrop {
-	color: rgba(180,0,180,1);
-	background-color: rgba(0,180,180,1);
+	color: rgba(180,0,180,0.8);
+	background-color: rgba(0,180,180,0.8);
 	padding: 10px 20px 10px 20px;
 	margin-left: -39px;
 	margin-top: 20px;
@@ -121,7 +121,7 @@ footer {
 }
 
 .post {
-	color: rgba(180,180,180,1);
+	color: rgba(180,180,180,0.8);
 	background-color: 'purple';
 	padding: 10px 20px 10px 20px;
 	margin-top: 20px;
@@ -129,8 +129,8 @@ footer {
 }
 
 .resume_backdrop {
-	color: rgba(180,180,180,1);
-	background-color: rgba(80,80,180,1);
+	color: rgba(180,180,180,0.8);
+	background-color: rgba(80,80,180,0.8);
 	padding: 10px 20px 10px 20px;
 	margin-top: 20px;
 }
