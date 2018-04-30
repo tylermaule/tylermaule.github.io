@@ -24,7 +24,7 @@ header {
 	left: 0;
 	width: 100%;
 	color: white;
-	background-color: rgba(20,20,20,0.8);
+	background-color: rgba(200,20,20,0.8);
 	padding: 15px;
 	min-width: 1000px;
 	margin: 0px 10px 0px 10px auto;
@@ -91,7 +91,7 @@ footer {
 
 .pageTitle {
 	color: 'grey';
-	background-color: rgba(100,100,100,0.5);
+	background-color: 'yellow';
 	padding: 5px 15px 5px 20px;
 	margin-top: 70px;
 	border-style: solid;
@@ -118,7 +118,7 @@ footer {
 }
 
 #opening {
-	background-color: rgba(150,150,150,0.7);
+	background-color: 'green';
 	margin-bottom: -20px;
 	padding: 20px;
 }
