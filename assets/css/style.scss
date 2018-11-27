@@ -46,7 +46,7 @@ header a {
 
 
 .gallery{
-	padding: 15px 0px 15px 0px;
+	padding: 15px 10px 15px 10px;
 	padding-bottom: 325px;
 	min-width: 1000px;
 
@@ -82,6 +82,8 @@ footer {
   width:100%;
   height:20px;
 	min-width: 1000px;
+	align: left !important;
+	position: fixed;
 }
 
 footer a{
