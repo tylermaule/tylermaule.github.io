@@ -163,14 +163,12 @@ body {
 	background-attachment: fixed;
 	background-repeat: repeat;
 	min-width: 1000px;
-	display: block;
 }
 
 .main {
 	position: fixed;
-
+	width: 600px;
 	margin-bottom: 60px;
-	max-width: 400px;
 }
 
 footer ul {
