@@ -159,7 +159,6 @@ footer a{
 }
 
 body {
-	position: absolute;
 	background-position: absolute;
 	background-attachment: fixed;
 	background-repeat: repeat;
@@ -167,6 +166,8 @@ body {
 }
 
 .main {
+	position: absolute;
+
 	margin-bottom: 60px;
 	max-width: 400px;
 }
