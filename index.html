@@ -5,12 +5,18 @@ title:
 
 001
 
-<br />
-<br />
+There are three basic ways of training and working with the CNN.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam rhoncus iaculis mauris sit amet gravida. Aliquam fermentum tincidunt orci nec ullamcorper. Donec bibendum orci eget tempus malesuada. Donec congue feugiat vulputate. Nulla facilisi. Sed gravida a lorem quis iaculis. Aenean non dapibus arcu, et posuere odio. Nam metus mi, bibendum non urna vel, fringilla rutrum enim. Nullam diam felis, volutpat quis tempus a, sagittis sit amet felis. Duis vel nulla id leo tincidunt viverra. Nam rutrum tellus a nunc pellentesque, id fermentum tellus porttitor. Cras ultrices pulvinar est suscipit imperdiet.
+Train from Scratch (most challenging)
+This is the most challenging. You may need hundreds of thousands of labeled images
+for training. The training can also take a very long time- The example below took a
+modern PC about 6 hours to train.
 
-<br />
-<br />
 
-Sed tempor eget quam a fringilla. Duis ornare varius lorem quis pretium. Cras blandit odio ac ultricies iaculis. Donec sed velit placerat, pretium augue vestibulum, aliquet sapien. Etiam at congue eros, ut fringilla velit. Nam ut interdum ligula. Aliquam erat volutpat. Vivamus gravida consequat metus, a eleifend elit malesuada ac.
+• Transfer learning.
+In transfer learning, you begin with a network that has been trained (presumably for
+related tasks). For example, we might download AlexNet from the internet, which has
+already been pretrained with thousands of images. We might then focus training on
+“Trucks versus Cars” from that. This would then just be fine tuning your parameters
+instead of starting from scratch.
+Use a pre-trained CNN. For a new task, fine-tune the network weights.
