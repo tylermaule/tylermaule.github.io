@@ -19,7 +19,6 @@ header {
 	top: 0;
 	left: 0;
 	width: 100%;
-	color: white;
 	background-color: rgba(20,20,20,0.8);
 	padding: 15px;
 	min-width: 1000px;
@@ -28,27 +27,12 @@ header {
 }
 
 header a {
-	text-decoration: none;
+	text-decoration: underline;
 	color: lightgrey;
 	font-family: 'Garamond','Times New Roman','Arial';
 	padding: 15px 20px 15px 20px ;
 	margin: 0px 5px 0px 5px;
 	font-size: 1.2em;
-
-}
-
-
-#intro a{
-	margin: 0px -40px 0px -40px;
-	color: #616A6B;
-
-}
-
-
-.gallery{
-	padding: 15px 10px 15px 10px;
-	padding-bottom: 325px;
-	min-width: 1000px;
 
 }
 
@@ -71,10 +55,6 @@ ion-icon {
 	margin: 0px -40px 0px -40px;
 }
 
-.container{
-	background-color: 'yellow';
-}
-
 footer {
 	font-size: 1.2em;
 	color: darkgrey !important;
@@ -90,10 +70,6 @@ footer {
 	position: fixed;
 }
 
-footer a{
-	color: dimgrey;
-}
-
 .pageTitle {
 	color: 'grey';
 	background-color: 'blue';
@@ -101,23 +77,6 @@ footer a{
 	margin-top: 70px;
 	font-family: 'Garamond', 'Times New Roman';
 	height: auto;
-}
-
-.minWidthT {
-	min-width: 1000px;
-}
-
-.blurb_backdrop {
-	color: 'violet';
-	background-color: 'violet';
-	padding: 8px 20px 8px 20px;
-	margin-top: 20px;
-}
-
-#post_cat {
-	background-color: 'orange';
-	padding: 10px;
-	margin: 10px 0px 10px 10px;
 }
 
 #opening {
