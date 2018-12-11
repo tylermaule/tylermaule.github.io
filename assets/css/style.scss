@@ -1,10 +1,6 @@
 ---
 ---
 
-#dropit {
-	background-color: 'black';
-}
-
 .resume {
 	padding: 0px 60px 20px 20px;
 	font-size: 0.95em;
@@ -19,7 +15,7 @@ header {
 	top: 0;
 	left: 0;
 	width: 100%;
-	background-color: rgba(120,20,20,0.8);
+	background-color: rgba(120,20,20);
 	padding: 15px;
 	min-width: 1000px;
 	margin: 0px 10px 0px 10px auto;
@@ -168,13 +164,4 @@ header li {
 
 footer li {
 	display: block;
-}
-
-
-#linked{
-	height: 200px;
-	width: 205px;
-	float: left;
-	margin: -1px 18px 5px 20px;
-	padding-left: 0px;
 }
