@@ -5,9 +5,9 @@ body {
 .stripe {
     background-color: rgb(100,0,100);
     position: absolute;
+    display: block;
     length: 100%;
-    max-width: 100px;
-    min-width: 100px;
+    width: 100px;
     padding: 0px;
 }
 
