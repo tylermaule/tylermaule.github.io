@@ -3,10 +3,11 @@ body {
 }
 
 .stripe {
-    background-color: rgba(100,0,100,1);
+    background-color: rgb(100,0,100);
     position: absolute;
     length: 100%;
-    width: 100px;
+    max-width: 100px;
+    min-width: 100px;
     padding: 0px;
 }
 
