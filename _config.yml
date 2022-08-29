@@ -1,6 +1,6 @@
 name: Tyler M
 markdown: kramdown
-url: https://maumaj.github.io/
+url: https://tylermaule.github.io/
 kramdown:
   input: GFM
   highlighter: rouge
